@@ -1,0 +1,1 @@
+void func_ex(const char* text_print);
